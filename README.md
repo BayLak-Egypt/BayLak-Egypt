@@ -1,9 +1,3 @@
-## 🎯 Goals
-- Write clean and readable code
-- Improve problem-solving skills
-- Build useful tools
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BayLak&fontColor=00FF00&fontSize=50&animation=fadeIn" />
@@ -44,61 +38,17 @@
 
 ---
 
+## 🎯 Goals
+- Write clean and readable code
+- Improve problem-solving skills
+- Build useful tools
+
+
+---
+
 ## 📌 Projects
-- **Snake Engine** — personal learning project  
+- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** — A low-level exploration of game mechanics.
 - More projects coming soon...
 
----
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=BayLak-ONE&fontColor=00FF00&fontSize=70&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <code style="color:#00FF00; font-size: 1.2em;">&gt; Developer | Learner | Builder_</code>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BayLak-ONE">
-    <img src="https://img.shields.io/badge/Follow-BayLak--ONE-00FF00?style=flat-square&logo=github&logoColor=000000" />
-  </a>
-</p>
-
----
-
----
-Error Fetching Resource
----
-
-### 🚀 Featured Projects
-- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** — A low-level exploration of game mechanics.
-
-
----
-
-### 🎯 Mission Objectives
-```bash
-$ status --current-goals
-> 1. Master Low-Level Architecture [IN_PROGRESS]
-> 2. Build High-Performance Tools   [PENDING]
-> 3. Optimize Everything           [ALWAYS]
