@@ -38,17 +38,17 @@
 
 ---
 
-## 🎯 Goals
-- Write clean and readable code
-- Improve problem-solving skills
-- Build useful tools
-
-
----
 
 ## 📌 Projects
 - 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** — A low-level exploration of game mechanics.
 - More projects coming soon...
+
+---
+
+## 🎯 Goals
+- Write clean and readable code
+- Improve problem-solving skills
+- Build useful tools
 
 
 
