@@ -40,7 +40,7 @@
 
 
 ## 📌 Projects
-- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** — A low-level exploration of game mechanics.
+- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/Snake_Engine)** — A low-level exploration of game mechanics.
 - More projects coming soon...
 
 ---
