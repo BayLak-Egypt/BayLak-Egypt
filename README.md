@@ -62,7 +62,4 @@
 - [ ] Contribute to **Open Source** projects
 - [ ] Build a fully functional **OS Kernel**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer&fontSize=20" />
-</p>
 
