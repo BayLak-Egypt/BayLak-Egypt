@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=BayLak&fontColor=00FF00&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=BayLak-ONE&fontColor=00FF00&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/Follow-BayLak-00FF00?style=flat-square&logo=github&logoColor=000000" />
+  <a href="https://github.com/BayLak-ONE">
+    <img src="https://img.shields.io/badge/Follow-BayLak--ONE-00FF00?style=flat-square&logo=github&logoColor=000000" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <p><b>Core Programming</b></p>
+  <p><b>[ Core Programming ]</b></p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"/>
@@ -26,7 +26,7 @@
   
   <br/>
 
-  <p><b>Web & Databases</b></p>
+  <p><b>[ Web & Databases ]</b></p>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
@@ -35,7 +35,7 @@
   
   <br/>
 
-  <p><b>Systems & Infrastructure</b></p>
+  <p><b>[ Systems & Infrastructure ]</b></p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/Compilers-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00"/>
@@ -43,22 +43,27 @@
 
 ---
 
-### 📊 GitHub Analysis
+### 📊 System Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BayLak-ONE&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayLak-ONE&layout=compact&theme=matrix&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BayLak-ONE&theme=matrix&hide_border=true" />
+</p>
+
 ---
 
-### 🚀  Best Projects
-- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** 
+### 🚀 Featured Projects
+- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** — A low-level exploration of game mechanics.
+
 
 ---
 
-### 🎯 2026 Goals
-- [ ] Master **Low-Level Architecture**
-- [ ] Contribute to **Open Source** projects
-- [ ] Build a fully functional **OS Kernel**
-
-
+### 🎯 Mission Objectives
+```bash
+$ status --current-goals
+> 1. Master Low-Level Architecture [IN_PROGRESS]
+> 2. Build High-Performance Tools   [PENDING]
+> 3. Optimize Everything           [ALWAYS]
