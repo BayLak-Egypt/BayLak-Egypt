@@ -42,17 +42,7 @@
 </div>
 
 ---
-
-### 📊 System Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BayLak-ONE&show_icons=true&theme=matrix&hide_border=false&include_all_commits=true" alt="BayLak-ONE stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayLak-ONE&layout=compact&theme=matrix&hide_border=false" alt="BayLak-ONE languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BayLak-ONE&theme=matrix&hide_border=false" alt="BayLak-ONE streak" />
-</p>
+Error Fetching Resource
 ---
 
 ### 🚀 Featured Projects
