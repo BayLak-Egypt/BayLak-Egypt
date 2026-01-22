@@ -45,19 +45,18 @@
 
 ### 📊 GitHub Analysis
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=matrix&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BayLak-ONE&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BayLak-ONE&layout=compact&theme=matrix&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🐍 **[Snake Engine](https://github.com/yourusername/snake-engine)** — A low-level exploration of game mechanics and logic.
-- 🛠 **[Custom Compiler]** — (In Progress) Building a new language from scratch.
+### 🚀  Best Projects
+- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/snake-engine)** 
 
 ---
 
-### 🎯 2024 Goals
+### 🎯 2026 Goals
 - [ ] Master **Low-Level Architecture**
 - [ ] Contribute to **Open Source** projects
 - [ ] Build a fully functional **OS Kernel**
