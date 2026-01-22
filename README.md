@@ -1,3 +1,10 @@
+## 🎯 Goals
+- Write clean and readable code
+- Improve problem-solving skills
+- Build useful tools
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BayLak&fontColor=00FF00&fontSize=50&animation=fadeIn" />
 </p>
@@ -41,11 +48,6 @@
 - More projects coming soon...
 
 ---
-
-## 🎯 Goals
-- Write clean and readable code
-- Improve problem-solving skills
-- Build useful tools
 
 
 
