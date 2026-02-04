@@ -50,6 +50,12 @@
 
 ---
 
-## 📬 Contact / Telegram
-- Personal: [https://t.me/Baylaks](https://t.me/Baylaks)
-- Public Group: [https://t.me/BayLakYT](https://t.me/BayLakYT)
+## 📬 Contact / Socials
+<div align="center">
+  <a href="https://www.youtube.com/@baylak-egypt">
+    <img src="https://img.shields.io/badge/YouTube-BayLak-Egypt-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff"/>
+  </a>
+  <a href="https://t.me/BayLakYT">
+    <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
+  </a>
+</div>
