@@ -1,11 +1,8 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BayLak&fontColor=00FF00&fontSize=50&animation=fadeIn" />
 </p>
 
 <h3 align="center"><code style="color:#00FF00">Developer | Learner | Builder</code></h3>
-
-
 
 ---
 
@@ -33,15 +30,14 @@
   <p><b>[ Systems & Infrastructure ]</b></p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
   <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Compilers-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/Toolchain-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00"/>
 </div>
 
 ---
 
-
 ## 📌 Projects
-- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/Snake_Engine)** — A low-level exploration of game mechanics.
-- More projects coming soon...
+- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/Snake_Engine)** — Low-level exploration of game mechanics, memory handling, and game loops.
+- 🔧 **Tools & Experiments** — Reverse engineering, OS-level tests, and more (coming soon).
 
 ---
 
@@ -49,6 +45,11 @@
 - Write clean and readable code
 - Improve problem-solving skills
 - Build useful tools
+- Understand how things work under the hood
+- Learn by building, breaking, and rebuilding
 
+---
 
-
+## 📬 Contact / Telegram
+- Personal: [https://t.me/Baylaks](https://t.me/Baylaks)
+- Public Group: [https://t.me/BayLakYT](https://t.me/BayLakYT)
