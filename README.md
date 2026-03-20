@@ -55,7 +55,7 @@
   </a>
 
   <a href="https://baylak-egypt.github.io/my-website/socialmedia.html" target="_blank">
-    <img src=" https://img.shields.io/badge/My%20Social%20Media-8A2BE2"/>
+    <img src="https://img.shields.io/badge/My%20Social%20Media-8A2BE2"/>
   </a>
 
   <a href="https://t.me/BayLakYT" target="_blank">
