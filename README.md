@@ -49,13 +49,16 @@
 - Learn by building, breaking, and rebuilding
 
 ---
-<h2 align="center">📬 Contact / Socials</h2>
 <div align="center">
   <a href="https://www.youtube.com/@baylak-egypt" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-BayLak%20Egypt-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-BayLak%20Egypt-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff"/>
   </a>
-  
+
+  <a href="https://baylak-egypt.github.io/my-website/socialmedia.htm" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=ffffff"/>
+  </a>
+
   <a href="https://t.me/BayLakYT" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
   </a>
 </div>
