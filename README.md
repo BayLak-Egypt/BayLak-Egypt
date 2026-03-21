@@ -57,7 +57,7 @@
   <a href="https://t.me/BayLakYT" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
   </a>
-    <a href="https://baylak-egypt.github.io/my-website/socialmedia.html" target="_blank">
+    <a href="https://baylak-egypt.github.io/socialmedia.html" target="_blank">
     <img src="https://img.shields.io/badge/My%20Social%20Media-8A2BE2"/>
   </a>
 
