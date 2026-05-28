@@ -1,51 +1,48 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header&text=BayLak&fontColor=00FF00&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BAYLAK_OSINT&fontColor=00FF00&fontSize=60&fontAlignY=35&animation=twinkling" />
 </p>
 
-<h3 align="center"><code style="color:#00FF00">Developer | Learner | Builder</code></h3>
+<h2 align="center">
+  <code style="color:#00FF00">>> SYSTEM_ROOT_ACCESS: INITIALIZED</code>
+</h2>
+
+<p align="center">
+  <b>Full Stack Developer | Cybersecurity Specialist</b><br/>
+  <i>"Building the future, breaking the barriers."</i>
+</p>
 
 ---
 
-### 🛠 Tech Stack
-
+### ⚡ CORE_COMPUTATION_STACK
 <div align="center">
-  <p><b>[ Core Programming ]</b></p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=00FF00"/>
   
-  <br/>
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, C++, C#, Assembly |
+| **Backend/Web** | Node.js, PHP, JavaScript, MySQL |
+| **Systems** | Linux, Bash, Reverse Engineering |
 
-  <p><b>[ Web & Databases ]</b></p>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00"/>
-  
-  <br/>
-
-  <p><b>[ Systems & Infrastructure ]</b></p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Toolchain-000000?style=for-the-badge&logo=gitbook&logoColor=00FF00"/>
 </div>
 
 ---
 
-## 📌 Projects
-- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/Snake_Engine)** — Low-level exploration of game mechanics, memory handling, and game loops.
-- 🔧 **Tools & Experiments** — Reverse engineering, OS-level tests, and more (coming soon).
+### 📂 DEPLOYED_OPERATIONS
+- 🐍 **[Snake Engine](https://github.com/BayLak-ONE/Snake_Engine)**: Low-level memory management & game loops.
+- 🏗 **[BayLak OS]**: Modular Kernel Development (Work in Progress).
+- 🧩 **[SYP Compiler]**: Custom language interpreter with Arabic syntax.
+- 🔍 **[OSINT Tools]**: Network analysis and security automation.
 
 ---
 
-## 🎯 Goals
-- Write clean and readable code
-- Improve problem-solving skills
-- Build useful tools
-- Understand how things work under the hood
-- Learn by building, breaking, and rebuilding
+### 🔐 SECURITY_PROTOCOL
+> *"Code is not just logic; it is a manifestation of intent. Every line I write is a step toward deeper understanding of the machine."*
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BayLak-ONE&show_icons=true&theme=onedark&hide_border=true&text_color=00FF00&icon_color=00FF00" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&section=footer&text=STAY_SECURE_STAY_HIDDEN&fontColor=00FF00&fontSize=20" />
+</p>
