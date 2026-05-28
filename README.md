@@ -48,17 +48,4 @@
 - Understand how things work under the hood
 - Learn by building, breaking, and rebuilding
 
----
-<div align="center">
-  <a href="https://www.youtube.com/@baylak-egypt" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-BayLak%20Egypt-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff"/>
-  </a>
 
-  <a href="https://t.me/BayLakYT" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Group-0088CC?style=for-the-badge&logo=telegram&logoColor=ffffff"/>
-  </a>
-    <a href="https://baylak-egypt.github.io/socialmedia.html" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Social%20Media-8A2BE2"/>
-  </a>
-
-</div>
