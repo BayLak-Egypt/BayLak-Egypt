@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BAYLAK_OSINT&fontColor=00FF00&fontSize=60&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BAYLAK&fontColor=00FF00&fontSize=60&fontAlignY=35&animation=twinkling" />
 </p>
 
-<h2 align="center">
-  <code style="color:#00FF00">>> SYSTEM_ROOT_ACCESS: INITIALIZED</code>
-</h2>
 
 <p align="center">
   <b>Full Stack Developer | Cybersecurity Specialist</b><br/>
@@ -28,8 +25,6 @@
 
 ### 📂 DEPLOYED_OPERATIONS
 - 🐍 **[Snake Engine](https://github.com/BayLak-ONE/Snake_Engine)**: Low-level memory management & game loops.
-- 🏗 **[BayLak OS]**: Modular Kernel Development (Work in Progress).
-- 🧩 **[SYP Compiler]**: Custom language interpreter with Arabic syntax.
 - 🔍 **[OSINT Tools]**: Network analysis and security automation.
 
 ---
@@ -40,7 +35,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BayLak-ONE&show_icons=true&theme=onedark&hide_border=true&text_color=00FF00&icon_color=00FF00" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BayLak-Egypt&show_icons=true&theme=onedark&hide_border=true&text_color=00FF00&icon_color=00FF00" />
 </p>
 
 <p align="center">
