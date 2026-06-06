@@ -1,4 +1,5 @@
-![](ezgif.com-animated-gif-maker.gif)
+
+<img src="ezgif.com-animated-gif-maker.gif" width="400">
 
 
 أهلاً بك في مساحتي الرقمية. أنا **محمد حمادة**، مطور برمجيات وباحث في الأمن السيبراني، أعيش في العالم الرقمي بين بناء الأنظمة (OS development) وأتمتة المهام الأمنية.
