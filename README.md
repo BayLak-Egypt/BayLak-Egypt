@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BayLak-Egypt&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BayLak-Egypt&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
