@@ -1,13 +1,6 @@
 
 <img src="ezgif.com-animated-gif-maker.gif" width="400">
 
-<p align="left">
-  <a href="رابط_المدونة_هنا" style="text-decoration: none; display: inline-flex; align-items: center;">
-    <img src="Blogger_Gif.gif" width="30" height="30" alt="Blogger" style="vertical-align: middle; margin-right: 10px;">
-    <span style="vertical-align: middle;">مدونتنا على بلوجر: اضغط هنا للزيارة</span>
-  </a>
-</p>
-
 <table>
   <tr>
     <td align="center">
@@ -22,19 +15,6 @@
     </td>
   </tr>
 </table>
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="Blogger_Gif.gif" width="30" height="30" />
-    </td>
-    <td>
-      <a href="ضع_رابط_مدونتك_هنا">مدونتنا على بلوجر: اضغط هنا للزيارة</a>
-    </td>
-  </tr>
-</table>
-
 
 
 أهلاً بك في مساحتي الرقمية. أنا **محمد حمادة**، مطور برمجيات وباحث في الأمن السيبراني، أعيش في العالم الرقمي بين بناء الأنظمة (OS development) وأتمتة المهام الأمنية.
