@@ -8,6 +8,21 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://baylak-egypt.blogspot.com">
+        <img src="Blogger_Gif.gif" width="30" height="30" />
+      </a>
+    </td>
+    <td>
+      <a href="https://baylak-egypt.blogspot.com" style="text-decoration: none; color: inherit;">
+        <strong>مدونتنا على بلوجر</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <table>
   <tr>
