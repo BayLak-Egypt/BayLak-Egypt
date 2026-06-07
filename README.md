@@ -86,8 +86,7 @@
 <div align="center">
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BayLak-Egypt&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=10b981&dates=ffffff)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=BayLak-Egypt&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&sideLabels=10b981&dates=ffffff&numbers=ff0000)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
